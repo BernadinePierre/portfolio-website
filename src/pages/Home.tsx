@@ -11,7 +11,7 @@ export default function Home({ onNavigate }: HomeProps) {
         <div className="flex flex-col items-center md:items-start space-y-6">
           <div className="w-64 h-64 bg-gray-200 rounded-sm overflow-hidden">
             <img
-              src="https://media.licdn.com/dms/image/v2/D5603AQGC8HEDFonYjA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725464754701?e=1762387200&v=beta&t=Vx6WQfP703gRNQhGvqiKst4WT0_pF3gxLgwLB4IK23w"
+              src="/public/1725464754701.jfif"
               alt="Bernadine Pierre"
               className="w-full h-full object-cover"
             />
