@@ -19,9 +19,9 @@ export default function About() {
               <h2 className="font-mono font-bold text-xl mb-3">Skills</h2>
               <ul className="space-y-2 text-gray-700">
                 <li>Data Engineering</li>
-                <li>Machine Learning</li>
                 <li>Cloud Infrastructure</li>
                 <li>Software Development</li>
+                <li>Machine Learning</li>
                 <li>IT Support</li>
               </ul>
             </div>
@@ -30,10 +30,10 @@ export default function About() {
               <h2 className="font-mono font-bold text-xl mb-3">Focus Areas</h2>
               <ul className="space-y-2 text-gray-700">
                 <li>Data Pipeline Development</li>
-                <li>AI/ML Integration</li>
-                <li>SaaS Platform Support</li>
                 <li>ETL Processes</li>
                 <li>Data Analytics</li>
+                <li>AI/ML Integration</li>
+                <li>SaaS Platform Support</li>
               </ul>
             </div>
           </div>

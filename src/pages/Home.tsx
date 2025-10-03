@@ -11,7 +11,7 @@ export default function Home({ onNavigate }: HomeProps) {
         <div className="flex flex-col items-center md:items-start space-y-6">
           <div className="w-64 h-64 bg-gray-200 rounded-sm overflow-hidden">
             <img
-              src="/public/1725464754701.jfif"
+              src={`${import.meta.env.BASE_URL}1725464754701.jfif`}
               alt="Bernadine Pierre"
               className="w-full h-full object-cover"
             />
@@ -21,7 +21,7 @@ export default function Home({ onNavigate }: HomeProps) {
             <h1 className="text-4xl font-mono font-bold tracking-tight mb-2">
               &lt;BERNADINE PIERRE&gt;
             </h1>
-            <p className="text-xl text-gray-600 font-mono">Data Engineer</p>
+            <p className="text-xl text-gray-600 font-mono">Data & Solutions Engineer</p>
           </div>
 
           <button
